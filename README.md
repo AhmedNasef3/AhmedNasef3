@@ -1,6 +1,5 @@
 <h1 align= "center"><b>Hi there, i'm Ahmed Wael!</b></h1>
 
-
 <p  align = "center">
     <a href="https://www.linkedin.com/in/ahmed-nasef-56041b323/" alt="LinkedIn">
         <img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=LinkedIn" /></a>
@@ -10,7 +9,8 @@
         <img src="https://img.shields.io/badge/-GitHub-38365A?style=flat-square&logo=GitHub&logoColor=white" /></a>
 </p>
 
-----------------------
+<img align="right" alt="Coding" width="350" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/media/7ed7d5ca074b48b328150e5a231e8d1f.gif">
+
 
 <h2 align= "left"><b> A Passionate Data Scientist & Data Analyst </b></h2>
 
@@ -23,13 +23,12 @@
 
 - 👯 I’m looking to collaborate with other content creators
 
----------
 
 - 🚀 [My linkedin Profile](https://www.linkedin.com/in/ahmed-nasef-56041b323/)
 - 🚀 [My Kaggle Profile](https://www.kaggle.com/ahmedwaelnasef)
 - 🚀 [My Hackerrank Account](https://www.hackerrank.com/profile/ahmednasef9889)
 
--------------------
+
 <h2 align="left">Frameworks & Skills :</h2>
 <p  align = "center">
     <img src="https://img.shields.io/badge/-TensorFlow-white?style=flat-square&logo=TensorFlow&logoColor=orange" /></a>
