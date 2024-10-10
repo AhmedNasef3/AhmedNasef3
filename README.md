@@ -5,8 +5,6 @@
         <img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=LinkedIn" /></a>
     <a href="https://www.kaggle.com/ahmedwaelnasef" alt="Kaggle">
         <img src="https://img.shields.io/badge/-Kaggle-3a424f?flat-square&logo=Kaggle" /></a>
-    <a href="https://github.com/AhmedNasef3" alt="GitHub">
-        <img src="https://img.shields.io/badge/-GitHub-38365A?style=flat-square&logo=GitHub&logoColor=white" /></a>
 </p>
 
 
