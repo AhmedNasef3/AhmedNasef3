@@ -1,5 +1,5 @@
 <h1 align= "center"><b>Hi there👋, i'm Ahmed Wael!</b></h1>
-
+![Profile view counter on GitHub](https://komarev.com/ghpvc/?username=AhmedNasef3)
 <p  align = "center">
     <a href="https://www.linkedin.com/in/ahmed-nasef-56041b323/" alt="LinkedIn">
         <img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=LinkedIn" /></a>
