@@ -20,7 +20,6 @@
 
 - ⚡  Developing Skills more and more in  : `Computer Vision`  , `Artifical Intelligence`
 
-- 👯 I’m looking to collaborate with other content creators
 
 
 - 🚀 [My linkedin Profile](https://www.linkedin.com/in/ahmed-nasef-56041b323/)
