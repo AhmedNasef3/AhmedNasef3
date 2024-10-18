@@ -1,4 +1,4 @@
-<h1 align= "center"><b>Hi there👋, i'm Ahmed Wael!</b></h1>
+<h1 align= "center"><b>Hi there👋, i'm Ahmed Wael</b></h1>
 
 <p  align = "center">
     <a href="https://www.linkedin.com/in/ahmed-nasef-56041b323/" alt="LinkedIn">
