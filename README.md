@@ -14,7 +14,7 @@
 <img align="right" alt="Coding" width="350" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/media/7ed7d5ca074b48b328150e5a231e8d1f.gif">
 
 
-- 👨‍💻 Communication and Computer Engineering Student
+- 👨‍💻 AI & ML Engineer
 
 - 🤖 [3X Kaggle Expert](https://www.kaggle.com/ahmedwaelnasef)
 
